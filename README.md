@@ -47,4 +47,7 @@ brain functions
 Life’s innite variety is the result of a single mechanism: natural selection.
 
 ## The argument from physics
+physics is unique in its simplicity. Outside physics and
+engineering, the track record of mathematics is more mixed
 
+## The argument from statistics
