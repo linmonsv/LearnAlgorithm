@@ -51,3 +51,4 @@ physics is unique in its simplicity. Outside physics and
 engineering, the track record of mathematics is more mixed
 
 ## The argument from statistics
+Bayes’ theorem is a machine that turns data into knowledge
