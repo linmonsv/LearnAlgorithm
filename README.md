@@ -77,3 +77,8 @@ Machine learning alone will not
 cure cancer; cancer patients will, by sharing their data for the benet of
 future patients
 
+## A different theory of everything
+A theory is a set of constraints on what the
+world could be, not a complete description of it. To obtain the latter,
+you have to combine the theory with data
+
