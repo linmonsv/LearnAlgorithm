@@ -66,11 +66,14 @@ their criticisms in mind as we set out on the road to the Master Algorithm
 can’t learn.”
 
 ## Is the Master Algorithm a fox or a hedgehog?
-
 I hope the Master Algorithm
 is a hedgehog, but even if it’s a fox, we can’t catch it soon enough.
 
 Before we can discover deep truths with machine learning,
 we have to discover deep truths about machine learning
 
+## What’s at stake
+Machine learning alone will not
+cure cancer; cancer patients will, by sharing their data for the benet of
+future patients
 
