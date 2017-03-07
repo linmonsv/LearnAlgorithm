@@ -98,3 +98,8 @@ equivalent, but for induction
 # CHAPTER THREE Hume’s Problem of Induction
 * Rationalists
 * Empiricists
+
+## To date or not to date?
+without generalization, you won’t even get o
+the ground
+
