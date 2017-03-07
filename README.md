@@ -56,3 +56,8 @@ Bayes’ theorem is a machine that turns data into knowledge
 ## The argument from computer science
 P and NP are the two most important classes of problems in computer
 science
+
+## Machine learners versus knowledge engineers
+we should keep
+their criticisms in mind as we set out on the road to the Master Algorithm
+
