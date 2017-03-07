@@ -61,3 +61,7 @@ science
 we should keep
 their criticisms in mind as we set out on the road to the Master Algorithm
 
+## Swan bites robot
+“No matter how smart your algorithm, there are some things it just
+can’t learn.”
+
