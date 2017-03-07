@@ -82,3 +82,9 @@ A theory is a set of constraints on what the
 world could be, not a complete description of it. To obtain the latter,
 you have to combine the theory with data
 
+## Candidates that don’t make the cut
+Mathematicians like to say that God can disobey the
+laws of physics, but even he cannot defy the laws of logic. is may be
+so, but the laws of logic are for deduction; what we need is something
+equivalent, but for induction
+
