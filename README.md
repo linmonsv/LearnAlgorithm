@@ -94,3 +94,7 @@ equivalent, but for induction
 * evolutionaries
 * Bayesians
 * analogizers
+
+# CHAPTER THREE Hume’s Problem of Induction
+* Rationalists
+* Empiricists
