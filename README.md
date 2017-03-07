@@ -88,3 +88,9 @@ laws of physics, but even he cannot defy the laws of logic. is may be
 so, but the laws of logic are for deduction; what we need is something
 equivalent, but for induction
 
+## The Five tribes of machine learning
+* symbolists
+* connectionists
+* evolutionaries
+* Bayesians
+* analogizers
