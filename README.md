@@ -103,3 +103,5 @@ equivalent, but for induction
 without generalization, you won’t even get o
 the ground
 
+## The "no free lunch" theorem
+there’s no such thing as learning without knowledge
