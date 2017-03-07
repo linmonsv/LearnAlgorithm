@@ -13,9 +13,9 @@ Computers write their own programs
 ## Why businesses embrace machine learning
 They embrace it because they have no choice.
 
-## Supercharging the scientic method
+## Supercharging the scientific method
 It follows the
-same process of generating, testing, and discarding or rening hypotheses.
+same process of generating, testing, and discarding or refining hypotheses.
 But while a scientist may spend his or her whole life coming up
 with and testing a few hundred hypotheses, a machine-learning system
 can do the same in a fraction of a second
@@ -44,7 +44,7 @@ In congenitally blind people, the visual cortex can take over other
 brain functions
 
 ## The argument from evolution
-Life’s innite variety is the result of a single mechanism: natural selection.
+Life’s infinite variety is the result of a single mechanism: natural selection.
 
 ## The argument from physics
 physics is unique in its simplicity. Outside physics and
@@ -52,3 +52,7 @@ engineering, the track record of mathematics is more mixed
 
 ## The argument from statistics
 Bayes’ theorem is a machine that turns data into knowledge
+
+## The argument from computer science
+P and NP are the two most important classes of problems in computer
+science
