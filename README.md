@@ -109,3 +109,6 @@ there’s no such thing as learning without knowledge
 ## Priming the knowledge pump
 Suspend your disbelief and start by assuming that all
 matches are good
+
+## How to rule the world
+“divide and conquer”
