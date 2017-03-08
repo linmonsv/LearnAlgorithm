@@ -105,3 +105,7 @@ the ground
 
 ## The "no free lunch" theorem
 there’s no such thing as learning without knowledge
+
+## Priming the knowledge pump
+Suspend your disbelief and start by assuming that all
+matches are good
