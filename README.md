@@ -121,3 +121,8 @@ enough, Probably Approximately Correct.
 You can estimate the bias and variance of a learner by comparing its
 predictions aer learning on random variations of the training set
 
+## Induction is the inverse of deduction
+Socrates is human.
+All humans are mortal.
+Terefore.... . .?...
+
