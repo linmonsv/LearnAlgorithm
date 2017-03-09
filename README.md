@@ -117,3 +117,7 @@ matches are good
 appropriately
 enough, Probably Approximately Correct.
 
+## Accuracy you can believe in
+You can estimate the bias and variance of a learner by comparing its
+predictions aer learning on random variations of the training set
+
