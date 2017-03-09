@@ -130,3 +130,10 @@ Terefore.... . .?...
 inverse deduction is a great way to discover new knowledge
 in biology
 
+## A game of twenty questions
+decision tree
+
+## The symbolists
+The symbolists’ core belief is that all intelligence can be reduced to
+manipulating symbols
+
