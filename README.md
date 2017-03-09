@@ -126,3 +126,7 @@ Socrates is human.
 All humans are mortal.
 Terefore.... . .?...
 
+## Learning to cure cancer
+inverse deduction is a great way to discover new knowledge
+in biology
+
