@@ -144,3 +144,8 @@ change
 ## The rise and fall of the perceptron
 our goal is to develop a general-purpose learning algorithm, not
 to build a realistic model of the brain
+
+## Physicist makes brain out of glass
+* Spin glasses
+* Boltzmann machine
+* deep learning
