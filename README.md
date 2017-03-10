@@ -142,5 +142,5 @@ the molecular biology of synaptic
 change
 
 ## The rise and fall of the perceptron
-
-p.97
+our goal is to develop a general-purpose learning algorithm, not
+to build a realistic model of the brain
