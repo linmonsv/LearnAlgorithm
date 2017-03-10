@@ -138,5 +138,9 @@ The symbolists’ core belief is that all intelligence can be reduced to
 manipulating symbols
 
 # CHAPTER FOUR How Does Your Brain Learn?
+the molecular biology of synaptic
+change
 
+## The rise and fall of the perceptron
 
+p.97
