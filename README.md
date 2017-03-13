@@ -161,5 +161,13 @@ Backprop
 Neural networks’ rst big success was in predicting the stock market.
 
 ## A complete model of a cell
+a nonlinear system
+
+## Deeper into the brain
+the top layer can be a conventional perceptron that learns
+to recognize your grandmother from the high-level features provided
+by the layer below it—much easier than using only the crude information
+provided by a single hidden layer or than trying to backpropagate
+through all the layers at once
 
 
