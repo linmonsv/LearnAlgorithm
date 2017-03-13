@@ -149,3 +149,9 @@ to build a realistic model of the brain
 * Spin glasses
 * Boltzmann machine
 * deep learning
+
+## The most important curve in the world
+Many phenomena we think of
+as linear are in fact S curves, because nothing can grow without limit.
+
+## Climbing mountains in hyperspace
