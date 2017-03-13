@@ -170,4 +170,14 @@ by the layer below it—much easier than using only the crude information
 provided by a single hidden layer or than trying to backpropagate
 through all the layers at once
 
+# CHAPTER FIVE Evolution: Nature’s Learning Algorithm
+Robotic Park is
+
+in silico instead of in vivo
+
+## Darwin’s algorithm
+We can get even fancier by allowing rules for intermediate concepts
+to evolve, and then chaining these rules at performance time.
+
+
 
