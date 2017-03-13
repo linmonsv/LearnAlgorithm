@@ -155,3 +155,11 @@ Many phenomena we think of
 as linear are in fact S curves, because nothing can grow without limit.
 
 ## Climbing mountains in hyperspace
+Backprop
+
+## The perceptron’s revenge
+Neural networks’ rst big success was in predicting the stock market.
+
+## A complete model of a cell
+
+
