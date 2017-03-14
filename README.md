@@ -179,5 +179,10 @@ in silico instead of in vivo
 We can get even fancier by allowing rules for intermediate concepts
 to evolve, and then chaining these rules at performance time.
 
+## The exploration-exploitation dilemma
+If you’ve found something
+that works, should you just keep doing it? Or is it better to try
+new things, knowing it could be a waste of time but also might lead to
+a better solution?
 
 
